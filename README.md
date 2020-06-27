@@ -11,9 +11,9 @@
 código em HTML ou CSS criamos uma apresentação que funciona direto no navegador, com servidor local, tamanha é a praticidade desta 
 ferramenta. </p>
 
-</br>
-Mesmo com poucas linhas de código já é possível formar o seguinte painel no navegador com o dataset lido:
-</br>
+<p>
+Mesmo com poucas linhas de código já é possível formar o seguinte painel no navegador com o dataset lido: </br>
+</p>
 
 
 <p align="center">
