@@ -12,9 +12,9 @@ código em HTML ou CSS criamos uma apresentação que funciona direto no navegad
 ferramenta. </p>
 
 <p>
-  <\br>
+
   Mesmo com poucas linhas de código já é possível formar o seguinte painel no navegador com o dataset lido: </br>
-  <\br>
+  
 </p>
 
 
