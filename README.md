@@ -24,3 +24,11 @@ Com poucas linhas de código, é possível formar o seguinte painel no seu naveg
   <img src="https://user-images.githubusercontent.com/45701541/85913758-cfe1f880-b80d-11ea-98c0-97c6659abac6.png">
  </p>
 
+
+
+
+A biblioteca streamlit é open source e gratuita, e foi feita para a construção de aplicações de dados de forma interativa 
+e fácil: "Streamlit. The fastest way to build data apps"
+
+[streamlit] (https://www.streamlit.io)
+
