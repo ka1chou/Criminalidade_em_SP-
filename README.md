@@ -35,10 +35,12 @@ ferramenta. </p>
 
 
 <p> 
-  Para iniciar a visualização é necessário digitar no terminal local o seguinte comando:
-  ----
+  Para iniciar a visualização é necessário digitar no terminal local o seguinte comando: </br>
+  
+  '''
   streamlit run [nome_do_arquivo].py
-  ----
+  
+  '''
   
 </p>
   
