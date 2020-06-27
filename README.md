@@ -48,7 +48,8 @@ ferramenta. </p>
 <p> A biblioteca streamlit é open source e gratuita, e foi feita para a construção de aplicações de dados de forma interativa 
 e fácil: "Streamlit. The fastest way to build data apps"
 
-[streamlit] (https://www.streamlit.io)
+#Markdown
+[streamlit](https://www.streamlit.io)
 
 </p>
 
