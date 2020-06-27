@@ -7,28 +7,34 @@
 # Criminalidade_em_SP-
 **Utilizando apenas Python e um dataset, apresentamos uma pagina com dados sobre a criminalidade em São Paulo, gerada no servidor local.**
 
-
-Este pequeno projeto é uma amostra do que pode ser feito utilizando a biblioteca streamlit do Python. Sem a necessidade de nenhum 
+<p> Este pequeno projeto é uma amostra do que pode ser feito utilizando a biblioteca streamlit do Python. Sem a necessidade de nenhum 
 código em HTML ou CSS criamos uma apresentação que funciona direto no navegador, com servidor local, tamanha é a praticidade desta 
-ferramenta. 
+ferramenta. </p>
 
-
+</br>
 Com poucas linhas de código, é possível formar o seguinte painel no seu navegador:
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45701541/85913672-30246a80-b80d-11ea-8517-9fa7a59bc9ed.png"> 
 </p>
 
+</br>
+</br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45701541/85913758-cfe1f880-b80d-11ea-98c0-97c6659abac6.png">
  </p>
 
 
+</br>
+</br>
 
 
-A biblioteca streamlit é open source e gratuita, e foi feita para a construção de aplicações de dados de forma interativa 
+<p> A biblioteca streamlit é open source e gratuita, e foi feita para a construção de aplicações de dados de forma interativa 
 e fácil: "Streamlit. The fastest way to build data apps"
 
 [streamlit] (https://www.streamlit.io)
+
+</p>
 
