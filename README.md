@@ -20,4 +20,7 @@ Com poucas linhas de código, é possível formar o seguinte painel no seu naveg
 </p>
 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45701541/85913758-cfe1f880-b80d-11ea-98c0-97c6659abac6.png">
+ </p>
 
