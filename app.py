@@ -3,7 +3,7 @@ import streamlit as st
 import pydeck as pdk
 
 
-dataframe = pd.read_csv('criminalidade_sp_2.csv')
+df = pd.read_csv('criminalidade_sp_2.csv')
 
 st.title("Criminalidade em São Paulo")
 
@@ -15,11 +15,11 @@ st.markdown("""
     Índices de criminalidade.
 """)
 
-st.sidebar.info("Foram carregadas {} linhas.".format(dataframe.shape[0]))
+st.sidebar.info("Foram carregadas {} linhas.".format(df.shape[0]))
 
 if st.sidebar.checkbox("Mostrar tabela?"):
     st.header("Raw Data")
-    st.write(dataframe)
+    st.write(df)
 
 df.time = pd.to_datetime(df.time)
 ano_selecionado = st.sidebar.slider("Selecione um ano", 2010,2018,2015)
@@ -29,8 +29,8 @@ df_selected = df[df.time.dt.year == ano_selecionado]
 ## mapa
 st.subheader("Mapa da Criminalidade")
 ## st.map(df)
-st.pydeck_chart(pdf.Deck(
-    initial_view_state = pdf.ViewState(
+st.pydeck_chart(pdk.Deck(
+    initial_view_state = pdk.ViewState(
         latitude=-23.567145,
         longitude=-46.648936,
         zoom=8,
@@ -50,4 +50,7 @@ st.pydeck_chart(pdf.Deck(
         )
     ],
 ))
+
+
+
 
