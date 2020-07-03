@@ -18,30 +18,21 @@ ferramenta. </p>
 </p>
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45701541/85913672-30246a80-b80d-11ea-8517-9fa7a59bc9ed.png"> 
-</p>
-
-</br>
-</br>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45701541/85913758-cfe1f880-b80d-11ea-98c0-97c6659abac6.png">
- </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45701541/86264020-5bee7a00-bb98-11ea-8209-139175a1a88d.png">
  </p>
 
+
+A imagem abaixo mostra um mapa em 3D que representa através de pilares os índices de crimilidade, sendo que 
+quanto maior o pilar, maior é o numero de ocorrências naquela região de São Paulo. Esse código é gerado em 
+Python utilizando a biblioteca pydeck. Assim, de forma simples e rápida podemos construir esse nível 
+de apresentações com os nossos conjuntos de dados:
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45701541/86264077-71fc3a80-bb98-11ea-80aa-71a09ee98c8d.png">
  </p>
 
-
-
-</br>
-</br>
 
 
 <p> 
@@ -58,7 +49,7 @@ ferramenta. </p>
 <p> A biblioteca streamlit é open source e gratuita, e foi feita para a construção de aplicações de dados de forma interativa 
 e fácil: "Streamlit. The fastest way to build data apps"
 
-# [streamlit](https://www.streamlit.io)
+ * streamlit [www.streamlit.io](https://www.streamlit.io)
 
 </p>
 
