@@ -7,6 +7,12 @@
 # Criminalidade_em_SP-
 **Utilizando apenas Python e um dataset, apresentamos uma pagina com dados sobre a criminalidade em São Paulo, gerada no servidor local.**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45701541/86666267-c94e4080-bfc6-11ea-8cac-dd268d77a1fe.png" >
+</p>
+
+São Paulo, atualmente com uma população superior a 12 milhões de pessoas, é o principal centro financeiro, corporativo e mercantil da América do Sul. É a cidade mais populosa do Brasil, e de todo o hemisfério sul. São Paulo é a cidade brasileira mais influente no cenário global, sendo, em 2016, a 11.ª cidade mais globalizada do planeta. 
+
 <p>   Este pequeno projeto é uma amostra do que pode ser feito utilizando a biblioteca streamlit do Python. Sem a necessidade de nenhum 
 código em HTML ou CSS criamos uma apresentação que funciona direto no navegador, com servidor local, tamanha é a praticidade desta 
 ferramenta. </p>
